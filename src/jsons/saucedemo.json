@@ -1,0 +1,86 @@
+{
+  "nombre_usuario":{
+    "GetFieldBy": "Id",
+    "ValueToFind": "user-name"
+  },
+
+  "usuario_pass":{
+    "GetFieldBy": "Id",
+    "ValueToFind": "password"
+  },
+
+  "btn_login":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div[2]/div[1]/div/div/form/input[3]"
+  },
+
+  "btn_ADD_CART1":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[2]/div/div[2]/div/div[1]/div[3]/button"
+  },
+  "btn_ADD_CART2":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[2]/div/div[2]/div/div[4]/div[3]/button"
+  },
+
+  "Carrito":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[1]/div[2]"
+  },
+
+  "Nom_Producto01":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[3]/div/div[1]/div[3]/div[2]/a/div"
+  },
+  "Nom_Producto02":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[3]/div/div[1]/div[4]/div[2]/a/div"
+  },
+
+  "Remuevo_Ultimo_Prod":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[3]/div/div[1]/div[4]/div[2]/div[2]/button"
+  },
+  "btn_CHECKOUT":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[3]/div/div[2]/a[2]"
+  },
+
+  "Info_Nombre_Usuario":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[3]/div/form/div[1]/input[1]"
+  },
+
+  "Info_Apellido_Usuario":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[3]/div/form/div[1]/input[2]"
+  },
+
+  "Info_Codigo_Postal":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[3]/div/form/div[1]/input[3]"
+  },
+
+  "Error_Codigo_Postal":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[3]/div/form/h3"
+  },
+
+   "btn_CONTINUE":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[3]/div/form/div[2]/input"
+  },
+
+  "btn_FINISH":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[3]/div/div[2]/div[8]/a[2]"
+  },
+
+  "Mensaje_Final":{
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "/html/body/div/div[2]/div[3]/h2"
+  }
+
+
+
+}

@@ -14,6 +14,8 @@
         <list>
           <option value="features.steps.Landing_CD.Landing_CD.assertEqual" />
           <option value="features.steps.Landing_CD.Landing_CD.assertEquals" />
+          <option value="src.fuctions.Functions.fuctions" />
+          <option value="src.features.steps.pruebaFlink.*" />
         </list>
       </option>
     </inspection_tool>
